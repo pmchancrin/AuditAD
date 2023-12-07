@@ -1,6 +1,6 @@
-$clientID = '3962ecdb-4702-4cf4-a564-c68cc59487d9'
-$tenantId = 'ad1d4b5e-1c6b-4a98-a3bc-d46f696ece79'
-$Clientsecret = 'IZc8Q~QsBkJvJbpsvBz3UFjgp3JURBrOTAgYvbmg'
+$clientID = 'yourClientID'
+$tenantId = 'yourTenantID'
+$Clientsecret = 'yourSecret'
 
 $BaseURL = "https://graph.microsoft.com/v1.0"
 
